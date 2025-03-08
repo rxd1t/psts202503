@@ -1,9 +1,9 @@
 # 🎓 Student Management System
 
-![Laravel](https://img.shields.io/badge/Laravel-10-red?style=for-the-badge&logo=laravel)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blue?style=for-the-badge&logo=bootstrap)
-![PHP](https://img.shields.io/badge/PHP-8-purple?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-5.7-blue?style=for-the-badge&logo=mysql)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL.7-blue?style=for-the-badge&logo=mysql)
 
 Sebuah aplikasi CRUD sederhana untuk mengelola data siswa menggunakan Laravel dan Bootstrap. 🚀  
 
@@ -17,8 +17,8 @@ Sebuah aplikasi CRUD sederhana untuk mengelola data siswa menggunakan Laravel da
 ---
 
 ## 🛠️ **Tech Stack**
-- **Framework:** Laravel 10
-- **Frontend:** Blade Templating, Bootstrap 5
+- **Framework:** Laravel 
+- **Frontend:** Blade Templating, Bootstrap 
 - **Database:** MySQL
-- **Backend:** PHP 8
+- **Backend:** PHP 
 - **Version Control:** Git & GitHub
