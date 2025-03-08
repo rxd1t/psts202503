@@ -3,7 +3,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL.7-blue?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 Sebuah aplikasi CRUD sederhana untuk mengelola data siswa menggunakan Laravel dan Bootstrap. 🚀  
 
