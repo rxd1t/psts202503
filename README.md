@@ -14,9 +14,6 @@ Sebuah aplikasi CRUD sederhana untuk mengelola data siswa menggunakan Laravel da
 |----------------|----------------|----------------|
 | ![List Siswa](https://raw.githubusercontent.com/rxd1t/psts202503/main/public/images/list.png) | ![Tambah Siswa](https://raw.githubusercontent.com/rxd1t/psts202503/main/public/images/add.png) | ![Edit Siswa](https://raw.githubusercontent.com/rxd1t/psts202503/main/public/images/edit.png) |
 
-📌 **Ganti `your-username` dengan username GitHub kamu agar gambar muncul.**  
-📌 **Pastikan gambar sudah terupload di `public/images/` GitHub repo kamu!**  
-
 ---
 
 ## 🛠️ **Tech Stack**
@@ -25,11 +22,3 @@ Sebuah aplikasi CRUD sederhana untuk mengelola data siswa menggunakan Laravel da
 - **Database:** MySQL
 - **Backend:** PHP 8
 - **Version Control:** Git & GitHub
-
----
-
-## 🚀 **Cara Instalasi**
-1. **Clone Repository**
-   ```sh
-   git clone https://github.com/your-username/student-management.git
-   cd student-management
